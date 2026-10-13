@@ -1,0 +1,9 @@
+{
+  "snapshot_id": "point-in-time-demo-v1",
+  "as_of_date": "2026-06-15",
+  "decision_queries": 2,
+  "series": 2,
+  "joined_rows": 4,
+  "naive_leaks": 2,
+  "input_fingerprint": "fd252331ed7ce6ef43f2111335c5d332770bfb21a8e92f6ee8312335566a54b6"
+}

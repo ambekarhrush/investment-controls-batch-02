@@ -1,0 +1,61 @@
+{
+  "as_of_snapshot": "S5",
+  "events": [
+    {
+      "snapshot_id": "S2",
+      "rule_id": "MAX_SINGLE",
+      "event": "new",
+      "value": 0.28,
+      "limit": 0.25,
+      "severity": "high"
+    },
+    {
+      "snapshot_id": "S2",
+      "rule_id": "MAX_SECTOR",
+      "event": "new",
+      "value": 0.43,
+      "limit": 0.4,
+      "severity": "high"
+    },
+    {
+      "snapshot_id": "S3",
+      "rule_id": "MAX_SINGLE",
+      "event": "acknowledged",
+      "value": 0.29,
+      "limit": 0.25,
+      "severity": "high"
+    },
+    {
+      "snapshot_id": "S3",
+      "rule_id": "MAX_SECTOR",
+      "event": "acknowledged",
+      "value": 0.44,
+      "limit": 0.4,
+      "severity": "high"
+    },
+    {
+      "snapshot_id": "S4",
+      "rule_id": "MAX_SINGLE",
+      "event": "resolved",
+      "value": 0.23,
+      "limit": 0.25,
+      "severity": "high"
+    },
+    {
+      "snapshot_id": "S4",
+      "rule_id": "MAX_SECTOR",
+      "event": "resolved",
+      "value": 0.39,
+      "limit": 0.4,
+      "severity": "high"
+    },
+    {
+      "snapshot_id": "S5",
+      "rule_id": "FRESHNESS",
+      "event": "stale_data",
+      "value": 30.0,
+      "limit": 24.0,
+      "severity": "critical"
+    }
+  ]
+}

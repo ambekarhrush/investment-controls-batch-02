@@ -1,0 +1,8 @@
+snapshot_id,rule_id,event,value,limit,severity
+S2,MAX_SINGLE,new,0.28,0.25,high
+S2,MAX_SECTOR,new,0.43,0.4,high
+S3,MAX_SINGLE,acknowledged,0.29,0.25,high
+S3,MAX_SECTOR,acknowledged,0.44,0.4,high
+S4,MAX_SINGLE,resolved,0.23,0.25,high
+S4,MAX_SECTOR,resolved,0.39,0.4,high
+S5,FRESHNESS,stale_data,30.0,24.0,critical

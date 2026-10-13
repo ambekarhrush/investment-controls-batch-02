@@ -1,0 +1,5 @@
+decision_id,decision_timestamp,series_id,asof_value,asof_vintage,publication_timestamp,value_naive,vintage_naive,publication_timestamp_naive,leakage,value_difference
+D1,2026-05-15T16:00:00Z,CPI_US_APR,3.1,1,2026-05-12T12:30:00Z,3.0,2,2026-06-10T12:30:00Z,True,-0.10000000000000009
+D1,2026-05-15T16:00:00Z,GDP_US_Q1,2.0,1,2026-04-30T12:30:00Z,1.2,2,2026-05-28T12:30:00Z,True,-0.8
+D2,2026-06-15T16:00:00Z,CPI_US_APR,3.0,2,2026-06-10T12:30:00Z,3.0,2,2026-06-10T12:30:00Z,False,0.0
+D2,2026-06-15T16:00:00Z,GDP_US_Q1,1.2,2,2026-05-28T12:30:00Z,1.2,2,2026-05-28T12:30:00Z,False,0.0

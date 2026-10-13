@@ -1,0 +1,87 @@
+{
+  "batch": "02",
+  "project_count": 6,
+  "projects": [
+    {
+      "project": "45-point-in-time-dataset",
+      "summary": "projects/45-point-in-time-dataset/outputs/demo/summary.json",
+      "snapshot_id": "point-in-time-demo-v1",
+      "as_of_date": "2026-06-15",
+      "decision_queries": 2,
+      "series": 2,
+      "joined_rows": 4,
+      "naive_leaks": 2,
+      "input_fingerprint": "fd252331ed7ce6ef43f2111335c5d332770bfb21a8e92f6ee8312335566a54b6"
+    },
+    {
+      "project": "47-data-catalogue",
+      "summary": "projects/47-data-catalogue/outputs/demo/summary.json",
+      "snapshot_id": "catalogue-2026-09-30",
+      "as_of_date": "2026-09-30",
+      "datasets": 4,
+      "approved": 3,
+      "blocked": 1,
+      "risk_search_results": 2,
+      "vendor_change_consumers": [
+        "liquidity_monitor",
+        "risk_engine"
+      ],
+      "input_fingerprint": "42487a77cdb0333a40d1b7be59999b99c1f9da0ed51f91951170fde74e1c8c04"
+    },
+    {
+      "project": "48-payment-reconciliation",
+      "summary": "projects/48-payment-reconciliation/outputs/demo/summary.json",
+      "snapshot_id": "payment-demo-2026-09-30",
+      "as_of_date": "2026-09-30",
+      "input_events": 5,
+      "accepted_events": 4,
+      "duplicate_events_ignored": 1,
+      "ledger_entries": 8,
+      "ledger_balance": 0.0,
+      "matched_payments": 2,
+      "reconciliation_breaks": 1,
+      "unexplained_external_amount": 75.0,
+      "input_fingerprint": "d0757eaa26a450e2ff603994b50fcc9ce59c5f5ce458627f7d57896568c24e94"
+    },
+    {
+      "project": "03-stress-testing",
+      "summary": "projects/03-stress-testing/outputs/demo/summary.json",
+      "snapshot_id": "stress-demo-v1",
+      "as_of_date": "2026-09-30",
+      "portfolio_market_value": 1310000.0,
+      "scenario_count": 2,
+      "worst_scenario": "2020-style risk shock replay",
+      "worst_pnl": -101983.48141294363,
+      "nonlinear_positions": 1,
+      "input_fingerprint": "d1f78234dd1a001ccd3d8657dc917d24a27fbb06765aa1e14f2a1cddbfb18075"
+    },
+    {
+      "project": "04-brinson-attribution",
+      "summary": "projects/04-brinson-attribution/outputs/demo/summary.json",
+      "snapshot_id": "brinson-demo-2026-09-30",
+      "as_of_date": "2026-09-30",
+      "portfolio_return": 0.030199999999999998,
+      "benchmark_return": 0.024200000000000003,
+      "active_return": 0.005999999999999995,
+      "attributed_active_return": 0.006,
+      "allocation_effect": 0.00075,
+      "selection_effect": 0.003600000000000001,
+      "interaction_effect": 0.0016499999999999996,
+      "reconciliation_error": -5.204170427930421e-18,
+      "input_fingerprint": "7742c40fba3a9865be41ed2f44d4af416552fa09fdec31de0bc6736e9546a8a0"
+    },
+    {
+      "project": "06-mandate-monitoring",
+      "summary": "projects/06-mandate-monitoring/outputs/demo/summary.json",
+      "snapshot_id": "mandate-replay-v1",
+      "as_of_date": "2026-10-01",
+      "snapshots_replayed": 5,
+      "new_breaches": 2,
+      "acknowledged_breaches": 2,
+      "resolved_breaches": 2,
+      "stale_snapshots": 1,
+      "open_breaches": 0,
+      "input_fingerprint": "d792ce5377358752bc1d09da76857abe07a49bb26fc5e2b4d60cffa1c69830b9"
+    }
+  ]
+}

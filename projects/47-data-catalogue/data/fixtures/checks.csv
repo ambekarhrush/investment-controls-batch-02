@@ -1,0 +1,7 @@
+dataset_id,check_name,status
+DS_MARKET,freshness,pass
+DS_MARKET,completeness,pass
+DS_POS,access_review,pass
+DS_MACRO,vintage_coverage,pass
+DS_ALT,license_review,fail
+DS_ALT,history_coverage,warning

@@ -1,0 +1,11 @@
+{
+  "snapshot_id": "mandate-replay-v1",
+  "as_of_date": "2026-10-01",
+  "snapshots_replayed": 5,
+  "new_breaches": 2,
+  "acknowledged_breaches": 2,
+  "resolved_breaches": 2,
+  "stale_snapshots": 1,
+  "open_breaches": 0,
+  "input_fingerprint": "d792ce5377358752bc1d09da76857abe07a49bb26fc5e2b4d60cffa1c69830b9"
+}

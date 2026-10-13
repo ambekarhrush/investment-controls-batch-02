@@ -1,0 +1,13 @@
+{
+  "snapshot_id": "brinson-demo-2026-09-30",
+  "as_of_date": "2026-09-30",
+  "portfolio_return": 0.030199999999999998,
+  "benchmark_return": 0.024200000000000003,
+  "active_return": 0.005999999999999995,
+  "attributed_active_return": 0.006,
+  "allocation_effect": 0.00075,
+  "selection_effect": 0.003600000000000001,
+  "interaction_effect": 0.0016499999999999996,
+  "reconciliation_error": -5.204170427930421e-18,
+  "input_fingerprint": "7742c40fba3a9865be41ed2f44d4af416552fa09fdec31de0bc6736e9546a8a0"
+}

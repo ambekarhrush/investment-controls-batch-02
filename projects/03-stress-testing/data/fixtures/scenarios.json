@@ -1,0 +1,26 @@
+{
+  "historical_replay": {
+    "label": "2020-style risk shock replay",
+    "type": "historical replay",
+    "shocks": {
+      "equity_us": -0.2,
+      "equity_eu": -0.24,
+      "rates_us": -0.0075,
+      "credit_ig": 0.015,
+      "oil": -0.3,
+      "volatility": 0.18
+    }
+  },
+  "inflation_hypothetical": {
+    "label": "Persistent inflation hypothetical",
+    "type": "hypothetical",
+    "shocks": {
+      "equity_us": -0.08,
+      "equity_eu": -0.1,
+      "rates_us": 0.01,
+      "credit_ig": 0.006,
+      "oil": 0.15,
+      "volatility": 0.08
+    }
+  }
+}

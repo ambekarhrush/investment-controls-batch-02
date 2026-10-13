@@ -1,0 +1,13 @@
+{
+  "snapshot_id": "catalogue-2026-09-30",
+  "as_of_date": "2026-09-30",
+  "datasets": 4,
+  "approved": 3,
+  "blocked": 1,
+  "risk_search_results": 2,
+  "vendor_change_consumers": [
+    "liquidity_monitor",
+    "risk_engine"
+  ],
+  "input_fingerprint": "42487a77cdb0333a40d1b7be59999b99c1f9da0ed51f91951170fde74e1c8c04"
+}

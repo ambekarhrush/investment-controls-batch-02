@@ -1,0 +1,3 @@
+scenario_id,scenario_label,scenario_type,pnl
+historical_replay,2020-style risk shock replay,historical replay,-101983.48141294363
+inflation_hypothetical,Persistent inflation hypothetical,hypothetical,-51732.02574115306

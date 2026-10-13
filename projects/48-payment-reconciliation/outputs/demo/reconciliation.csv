@@ -1,0 +1,4 @@
+payment_id,internal_amount,external_amount,difference,status
+P1,98.0,98.0,0.0,matched
+P2,0.0,0.0,0.0,matched
+P3,0.0,75.0,-75.0,break

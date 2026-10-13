@@ -1,0 +1,6 @@
+dataset_id,field,data_type,source_field,consumer
+DS_MARKET,close,float,daily_close,risk_engine
+DS_MARKET,volume,integer,daily_volume,liquidity_monitor
+DS_POS,market_value,float,position_value,risk_engine
+DS_MACRO,value,float,released_value,regime_research
+DS_ALT,signal,float,vendor_score,factor_research

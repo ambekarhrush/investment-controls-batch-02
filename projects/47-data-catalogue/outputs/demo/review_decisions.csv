@@ -1,0 +1,5 @@
+dataset_id,review_state,derived_state,decision_reason
+DS_MARKET,approved,approved,Mandatory checks passed
+DS_POS,approved,approved,Mandatory checks passed
+DS_MACRO,approved,approved,Mandatory checks passed
+DS_ALT,pending,blocked,Failed mandatory review check

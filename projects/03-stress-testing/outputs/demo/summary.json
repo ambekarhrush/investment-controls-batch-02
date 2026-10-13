@@ -1,0 +1,10 @@
+{
+  "snapshot_id": "stress-demo-v1",
+  "as_of_date": "2026-09-30",
+  "portfolio_market_value": 1310000.0,
+  "scenario_count": 2,
+  "worst_scenario": "2020-style risk shock replay",
+  "worst_pnl": -101983.48141294363,
+  "nonlinear_positions": 1,
+  "input_fingerprint": "d1f78234dd1a001ccd3d8657dc917d24a27fbb06765aa1e14f2a1cddbfb18075"
+}

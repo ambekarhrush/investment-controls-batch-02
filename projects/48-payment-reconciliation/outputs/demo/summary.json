@@ -1,0 +1,13 @@
+{
+  "snapshot_id": "payment-demo-2026-09-30",
+  "as_of_date": "2026-09-30",
+  "input_events": 5,
+  "accepted_events": 4,
+  "duplicate_events_ignored": 1,
+  "ledger_entries": 8,
+  "ledger_balance": 0.0,
+  "matched_payments": 2,
+  "reconciliation_breaks": 1,
+  "unexplained_external_amount": 75.0,
+  "input_fingerprint": "d0757eaa26a450e2ff603994b50fcc9ce59c5f5ce458627f7d57896568c24e94"
+}

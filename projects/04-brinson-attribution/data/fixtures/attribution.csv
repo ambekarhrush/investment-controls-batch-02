@@ -1,0 +1,7 @@
+sector,portfolio_weight,benchmark_weight,portfolio_return,benchmark_return
+Technology,0.32,0.28,0.06,0.04
+Financials,0.2,0.22,0.01,0.015
+Healthcare,0.18,0.2,0.025,0.03
+Industrials,0.15,0.12,0.04,0.02
+Consumer,0.15,0.1,-0.01,0.005
+Utilities,0.0,0.08,0.0,0.01

@@ -1,0 +1,9 @@
+event_id,payment_id,account,debit,credit
+E1,P1,Cash,100.0,0.0
+E1,P1,Customer liability,0.0,100.0
+E2,P1,Fee expense,2.0,0.0
+E2,P1,Cash,0.0,2.0
+E3,P2,Cash,50.0,0.0
+E3,P2,Customer liability,0.0,50.0
+E4,P2,Customer liability,50.0,0.0
+E4,P2,Cash,0.0,50.0

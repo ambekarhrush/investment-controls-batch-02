@@ -1,0 +1,6 @@
+rule_id,metric,limit,severity
+MAX_SINGLE,max_single_weight,0.25,high
+MAX_SECTOR,max_sector_weight,0.4,high
+MIN_LIQUID,min_liquid_weight,0.05,medium
+MAX_DRAWDOWN,max_drawdown,0.1,high
+FRESHNESS,max_age_hours,24.0,critical

@@ -1,0 +1,13 @@
+scenario_id,scenario_label,scenario_type,instrument_id,method,pnl
+historical_replay,2020-style risk shock replay,historical replay,US_EQ,linear factor sensitivity,-80000.0
+historical_replay,2020-style risk shock replay,historical replay,EU_EQ,linear factor sensitivity,-60000.0
+historical_replay,2020-style risk shock replay,historical replay,UST_10Y,linear factor sensitivity,16875.0
+historical_replay,2020-style risk shock replay,historical replay,IG_CREDIT,linear factor sensitivity,-8250.000000000002
+historical_replay,2020-style risk shock replay,historical replay,OIL,linear factor sensitivity,-39000.0
+historical_replay,2020-style risk shock replay,historical replay,SPX_PUT,Black-Scholes full repricing,68391.51858705637
+inflation_hypothetical,Persistent inflation hypothetical,hypothetical,US_EQ,linear factor sensitivity,-32000.0
+inflation_hypothetical,Persistent inflation hypothetical,hypothetical,EU_EQ,linear factor sensitivity,-25000.0
+inflation_hypothetical,Persistent inflation hypothetical,hypothetical,UST_10Y,linear factor sensitivity,-22500.0
+inflation_hypothetical,Persistent inflation hypothetical,hypothetical,IG_CREDIT,linear factor sensitivity,-14740.0
+inflation_hypothetical,Persistent inflation hypothetical,hypothetical,OIL,linear factor sensitivity,19500.0
+inflation_hypothetical,Persistent inflation hypothetical,hypothetical,SPX_PUT,Black-Scholes full repricing,23007.974258846938

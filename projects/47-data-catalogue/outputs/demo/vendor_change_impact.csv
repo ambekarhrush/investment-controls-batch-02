@@ -1,0 +1,3 @@
+field,consumer,change
+close,risk_engine,Vendor Alpha renames close to px_close
+volume,liquidity_monitor,Vendor Alpha renames close to px_close

@@ -1,0 +1,6 @@
+event_id,payment_id,event_type,amount,event_timestamp
+E1,P1,settlement,100.0,2026-09-30T09:00:00Z
+E2,P1,fee,2.0,2026-09-30T09:01:00Z
+E3,P2,settlement,50.0,2026-09-30T10:00:00Z
+E3,P2,settlement,50.0,2026-09-30T10:00:00Z
+E4,P2,reversal,50.0,2026-09-30T11:00:00Z

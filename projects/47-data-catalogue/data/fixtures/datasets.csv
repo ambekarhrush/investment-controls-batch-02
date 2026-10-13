@@ -1,0 +1,5 @@
+dataset_id,name,owner,review_state,usage,vendor,reviewed_at
+DS_MARKET,Daily market prices,Market Data,approved,internal-research,Vendor Alpha,2026-09-30
+DS_POS,Portfolio positions,Operations,approved,restricted,Internal,2026-09-30
+DS_MACRO,Point-in-time macro vintages,Research Data,approved,public-derived,Vendor Beta,2026-09-30
+DS_ALT,Alternative web signals,Research Data,pending,evaluation-only,Vendor Gamma,2026-09-25

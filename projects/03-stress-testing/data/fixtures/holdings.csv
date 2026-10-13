@@ -1,0 +1,7 @@
+instrument_id,instrument_type,market_value,primary_factor,beta,duration,spread_duration,volatility
+US_EQ,equity,400000,equity_us,1.0,0.0,0.0,0.0
+EU_EQ,equity,250000,equity_eu,1.0,0.0,0.0,0.0
+UST_10Y,bond,300000,rates_us,0.0,7.5,55.0,0.0
+IG_CREDIT,bond,220000,credit_ig,0.0,4.0,4.5,0.0
+OIL,commodity,130000,oil,1.0,0.0,0.0,0.0
+SPX_PUT,put,10000,equity_us,0.0,0.0,0.0,0.22
